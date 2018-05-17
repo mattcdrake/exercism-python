@@ -1,2 +1,2 @@
 def say(number):
-    pass
+    # skipping this one
